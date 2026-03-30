@@ -1,10 +1,10 @@
-# 🌌 Aria: AI-Powered Pain Point Mapper
+# Aria: AI-Powered Pain Point Mapper
 
 Aria is a sophisticated, agentic AI platform designed to transform raw customer feedback into structured strategic insights. It uses autonomous agents to conduct dynamic "interviews" with users, extracting deep qualitative pain points and synthesizing them into actionable reports.
 
 ---
 
-## 🏗️ Detailed Architecture
+## Detailed Architecture
 
 Aria follows a decoupled, asynchronous architecture optimized for high-concurrency LLM operations.
 
@@ -54,7 +54,7 @@ graph TD
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 /
@@ -73,7 +73,7 @@ graph TD
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.10+
@@ -108,11 +108,11 @@ graph TD
 
 ---
 
-## ☁️ Deployment
+## Deployment
 
 The project is **Vercel-ready**. Simply push this repository to Vercel, and the `vercel.json` will automatically handle the routing between the static frontend and the serverless python backend.
 
 ---
 
-## 📄 License
+## License
 MIT License - Created by [sumankhalia](https://github.com/sumankhalia85-coder)
